@@ -20,3 +20,7 @@ npm run dev
 yarn
 yarn dev
 ```
+
+### Upgrade
+yarn upgrade --latest
+Fix issues...
